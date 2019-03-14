@@ -2,7 +2,7 @@
 ## Installation Instructions:  
 ******************************  
   
- 1. Move the composer.json file inside `/application` directory.  
+ 1. Move the `composer.json` file inside `/application` directory.  
  2. Configure the `/application/config.php` file  
 ```php  
  $config['composer_autoload'] = TRUE;
